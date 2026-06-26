@@ -3,6 +3,7 @@ import * as diff from 'diff';
 import * as fs from 'fs';
 
 import * as toc from '../tool/toc';
+// add these
 
 if (process.env.CI) colors.enable();
 
